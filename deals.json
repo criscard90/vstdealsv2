@@ -2,15 +2,911 @@
   "ok": true,
   "source": "audiopluginguy.com/deals",
   "sourceUrl": "https://www.audiopluginguy.com/deals/",
-  "fetchedAt": "2026-10-06T05:41:08.147Z",
+  "fetchedAt": "2026-10-07T12:58:21.891Z",
   "stats": {
-    "rows": 286,
-    "free": 41,
-    "kept": 283,
+    "rows": 322,
+    "free": 43,
+    "kept": 318,
     "skipped": 0,
-    "duplicates": 3
+    "duplicates": 4
   },
   "deals": [
+    {
+      "id": "https://audioplugin.deals/product/analog-plugins-bundle-by-cloudy-samples/ref/21/",
+      "title": "Get 95% off Analog Plugins Bundle by Cloudy Samples for $9.99 (normally $190).",
+      "developer": "Cloudy Samples",
+      "url": "https://audioplugin.deals/product/analog-plugins-bundle-by-cloudy-samples/ref/21/",
+      "discount": 95,
+      "free": false,
+      "ends": "2026-10-20",
+      "dateAdded": "2026-10-07",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24218?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 75% off in the Plugin Boutique Plugins Autumn Sale.",
+      "developer": "",
+      "url": "https://www.pluginboutique.com/deals/24218?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 75,
+      "free": false,
+      "ends": "2026-10-25",
+      "dateAdded": "2026-10-07",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24153?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 62% off in the McDSP Analogue Emulations Sale.",
+      "developer": "McDSP",
+      "url": "https://www.pluginboutique.com/deals/24153?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 62,
+      "free": false,
+      "ends": "2026-11-01",
+      "dateAdded": "2026-10-07",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/23886?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 61% off in the KNOCK Audio Summer Sale.",
+      "developer": "KNOCK AUDIO",
+      "url": "https://www.pluginboutique.com/deals/23886?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 61,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-07",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24192?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 50% off in the AAS Chromaphone Flash Sale.",
+      "developer": "Applied Acoustic Systems (AAS)",
+      "url": "https://www.pluginboutique.com/deals/24192?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-12",
+      "dateAdded": "2026-10-07",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24193?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 17% off in the GForce Prophet 5 Analog Emulations Sale.",
+      "developer": "GForce Software",
+      "url": "https://www.pluginboutique.com/deals/24193?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 17,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-07",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.hornetplugins.com/bpb-butterfly-free/",
+      "title": "HoRNet Plugins is offering BPB readers HoRNet Butterfly mastering plugin for free.",
+      "developer": "HoRNet Plugins",
+      "url": "https://www.hornetplugins.com/bpb-butterfly-free/",
+      "discount": 100,
+      "free": true,
+      "ends": "2026-10-10",
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "FREE",
+        "Effects",
+        "Mastering"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🎁 FREEBIE",
+          "kind": "freebie"
+        }
+      ]
+    },
+    {
+      "id": "https://www.rapidflow.shop/products/true-ab-referencing",
+      "title": "Rapid Flow is offering True AB Referencing plugin for free when you subscribe to their newsletter.",
+      "developer": "Rapid Flow",
+      "url": "https://www.rapidflow.shop/products/true-ab-referencing",
+      "discount": 100,
+      "free": true,
+      "ends": null,
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "FREE",
+        "Effects",
+        "Referencing"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🎁 FREEBIE",
+          "kind": "freebie"
+        }
+      ]
+    },
+    {
+      "id": "https://subverselab.com/launch2",
+      "title": "SubverseLab is offering 82% off on SubverseLab Plugin Family, including 7 plugins.",
+      "developer": "SubverseLab",
+      "url": "https://subverselab.com/launch2",
+      "discount": 82,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Effects",
+        "Tools",
+        "Bundle"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24209?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 80% off in the Audio Blast Boutique Week Sale.",
+      "developer": "Audio Blast",
+      "url": "https://www.pluginboutique.com/deals/24209?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 80,
+      "free": false,
+      "ends": "2026-10-20",
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Synth",
+        "Effects",
+        "Instruments",
+        "Samples"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-harmonics?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 80% off Softube Harmonics at Audio Deluxe. The discounted price is $29.",
+      "developer": "Softube",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-harmonics?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 80,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "👍 RECOMMENDED",
+          "kind": "rec"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-spring-reverb?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 67% off Softube Spring Reverb at Audio Deluxe. The discounted price is $29.",
+      "developer": "Softube",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-spring-reverb?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 67,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-weiss-mm-1-mastering-maximizer?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 67% off Softube Weiss MM-1 Mastering Maximizer at Audio Deluxe. The discounted price is $65.",
+      "developer": "Softube",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-weiss-mm-1-mastering-maximizer?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 67,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-weiss-gambit-series-console-1?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 66% off Softube Weiss Gambit Series for Console 1 at Audio Deluxe. The discounted price is $99.",
+      "developer": "Softube",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-weiss-gambit-series-console-1?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 66,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-vocal-tuner-and-deesser-bundle?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 66% off Softube Vocal Tuner and Deesser Bundle at Audio Deluxe. The discounted price is $99.",
+      "developer": "Softube",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-vocal-tuner-and-deesser-bundle?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 66,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24213?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 62% off in the Excite Audio Artist Focus Sale.",
+      "developer": "Excite Audio",
+      "url": "https://www.pluginboutique.com/deals/24213?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 62,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Synth",
+        "Effects",
+        "Virtual Instrument",
+        "Samples",
+        "Instruments",
+        "Production"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/9860-KNOCK-Clipper?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 61% off KNOCK Clipper by KNOCK Audio. The discounted price is $19.",
+      "developer": "KNOCK Audio",
+      "url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/9860-KNOCK-Clipper?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 61,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Clipper",
+        "Distortion",
+        "Saturation",
+        "Dynamics",
+        "Effects"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-molot-ge?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 60% off Tokyo Dawn Labs TDR Molot GE at Audio Deluxe. The discounted price is $20.",
+      "developer": "Tokyo Dawn Labs",
+      "url": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-molot-ge?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 60,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-chandler-limited%C2%AE-germanium-compressor?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 60% off Softube Chandler Limited® Germanium Compressor at Audio Deluxe. The discounted price is $99.",
+      "developer": "Softube",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-chandler-limited%C2%AE-germanium-compressor?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 60,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-empirical-labs-mike-e-comp?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 59% off Softube Empirical Labs Mike-E Comp at Audio Deluxe. The discounted price is $65.",
+      "developer": "Softube",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-empirical-labs-mike-e-comp?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 59,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-bus-processor?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 56% off Softube Bus Processor at Audio Deluxe. The discounted price is $65.",
+      "developer": "Softube",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-bus-processor?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 56,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-weiss-ds1-mk3?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 54% off Softube Weiss DS1-MK3 at Audio Deluxe. The discounted price is $249.",
+      "developer": "Softube",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-weiss-ds1-mk3?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 54,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-special-filters-bundle?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 51% off Tokyo Dawn Labs TDR Special Filters Bundle at Audio Deluxe. The discounted price is $49.",
+      "developer": "Tokyo Dawn Labs",
+      "url": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-special-filters-bundle?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 51,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": []
+    },
+    {
+      "id": "https://soundparticles.com/products/energypanner/overview",
+      "title": "Sound Particles has released Energy Panner 2 plugin for Mac & Win. The intro is 50% off.",
+      "developer": "Sound Particles",
+      "url": "https://soundparticles.com/products/energypanner/overview",
+      "discount": 50,
+      "free": false,
+      "ends": null,
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Effects",
+        "Panning"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://www.snorkelaudio.com/",
+      "title": "Snorkel Audio is offering 50% off on all plugins.",
+      "developer": "Snorkel Audio",
+      "url": "https://www.snorkelaudio.com/",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-12",
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Effects",
+        "Tools"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://www.martinic.com/products",
+      "title": "Martinic AX73 5th Anniversary: 50% off all AX-related products.",
+      "developer": "Martinic",
+      "url": "https://www.martinic.com/products",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-14",
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Instruments",
+        "Synth"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-vos-slickeq-gentlemans-edition?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 50% off Tokyo Dawn Labs TDR VOS SlickEQ – Gentleman’s Edition at Audio Deluxe. The discounted price is $15.",
+      "developer": "Tokyo Dawn Labs",
+      "url": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-vos-slickeq-gentlemans-edition?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": []
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-arbiter?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 50% off Tokyo Dawn Labs TDR Arbiter at Audio Deluxe. The discounted price is $25.",
+      "developer": "Tokyo Dawn Labs",
+      "url": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-arbiter?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": []
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-elliptical?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 50% off Tokyo Dawn Labs TDR Elliptical at Audio Deluxe. The discounted price is $20.",
+      "developer": "Tokyo Dawn Labs",
+      "url": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-elliptical?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": []
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-infrasonic-0?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 50% off Tokyo Dawn Labs TDR Infrasonic at Audio Deluxe. The discounted price is $20.",
+      "developer": "Tokyo Dawn Labs",
+      "url": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-infrasonic-0?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": []
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-ultrasonic?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 50% off Tokyo Dawn Labs TDR Ultrasonic at Audio Deluxe. The discounted price is $15.",
+      "developer": "Tokyo Dawn Labs",
+      "url": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-ultrasonic?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": []
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-tape?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 50% off Softube Tape at Audio Deluxe. The discounted price is $49.",
+      "developer": "Softube",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-tape?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17963-HyperWarp?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 50% off HyperWarp by Baby Audio. The discounted price is $49.",
+      "developer": "Baby Audio",
+      "url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17963-HyperWarp?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-11-30",
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Granular FX",
+        "Multi-Effect",
+        "Time",
+        "Glitch",
+        "LoFi",
+        "Vocoder"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.zynaptiq.com/punch/",
+      "title": "Zynaptiq is offering 47% off on PUNCH dynamics processor plugin for Win & Mac.",
+      "developer": "Zynaptiq",
+      "url": "https://www.zynaptiq.com/punch/",
+      "discount": 47,
+      "free": false,
+      "ends": "2026-10-11",
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Effects",
+        "Dynamics Processor"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://www.steinberg.net/promotion/",
+      "title": "Steinberg is offering 40% off on Nuendo 15 full version, updates and crossgrades.",
+      "developer": "Steinberg",
+      "url": "https://www.steinberg.net/promotion/",
+      "discount": 40,
+      "free": false,
+      "ends": "2026-10-29",
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "DAW",
+        "Audio Editor",
+        "Upgrade",
+        "Updates",
+        "Crossgrade"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.westwoodinstruments.com/instruments/trinity-strings",
+      "title": "Westwood Instruments has released Trinity Strings virtual instrument plugin for Win & Mac. The intro is 40% off.",
+      "developer": "Westwood Instruments",
+      "url": "https://www.westwoodinstruments.com/instruments/trinity-strings",
+      "discount": 40,
+      "free": false,
+      "ends": null,
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Instruments",
+        "Strings"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://edupradosounds.com/products/hurdy-gurdy-1",
+      "title": "Edu Prado Sounds has released Hurdy-Gurdy library for Kontakt Player. The intro is 35% off.",
+      "developer": "Edu Prado Sounds",
+      "url": "https://edupradosounds.com/products/hurdy-gurdy-1",
+      "discount": 35,
+      "free": false,
+      "ends": null,
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Instruments",
+        "Library",
+        "Kontakt Player"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/8876-KNOCK?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 33% off KNOCK by KNOCK Audio. The discounted price is $99.",
+      "developer": "KNOCK Audio",
+      "url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/8876-KNOCK?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 33,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Transient Shaper",
+        "Saturation",
+        "Distortion",
+        "Clipper",
+        "Sub",
+        "Drum FX"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-ssl-xl-9000-k-series-console-1?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 33% off Softube SSL XL 9000 K-Series for Console 1 at Audio Deluxe. The discounted price is $199.",
+      "developer": "Softube",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-ssl-xl-9000-k-series-console-1?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 33,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.spitfireaudio.com/en-us/products/bt-the-collection",
+      "title": "Spitfire Audio has launches BT The Collection, including 3 libraries for Spitfire dedicated plugin. The intro is 30% off.",
+      "developer": "Spitfire Audio",
+      "url": "https://www.spitfireaudio.com/en-us/products/bt-the-collection",
+      "discount": 30,
+      "free": false,
+      "ends": "2026-10-25",
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Instruments",
+        "Library",
+        "Bundle"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/16-EQ/17843-CARBON-Q?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 30% off CARBON Q by Mastering The Mix. The discounted price is $56.",
+      "developer": "Mastering The Mix",
+      "url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/17843-CARBON-Q?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 30,
+      "free": false,
+      "ends": "2026-11-06",
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "EQ",
+        "Mixing",
+        "Mix & Master",
+        "MidSide",
+        "Dynamic Processor",
+        "Reference"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://soundpaint.com/products/dominion-1",
+      "title": "Soundpaint has released Dominion 1 instrument library for the free Soundpaint Engine. The intro is 29% off.",
+      "developer": "Soundpaint",
+      "url": "https://soundpaint.com/products/dominion-1",
+      "discount": 29,
+      "free": false,
+      "ends": "2026-10-09",
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Instruments",
+        "Library"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        }
+      ]
+    },
+    {
+      "id": "https://fracturesounds.com/product/alternative-woodwind-soloists/",
+      "title": "Fracture Sounds has released Alternative Woodwind Soloists library for Kontakt Player. The intro is 25% off.",
+      "developer": "Fracture Sounds",
+      "url": "https://fracturesounds.com/product/alternative-woodwind-soloists/",
+      "discount": 25,
+      "free": false,
+      "ends": null,
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Instruments",
+        "Library",
+        "Kontakt Player"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://audioprism.pro/",
+      "title": "AudioPrism has released AudioPrism 2.0 stem separation standalone application for Windows. The intro is 25% off.",
+      "developer": "Audioprism",
+      "url": "https://audioprism.pro/",
+      "discount": 25,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Utilities",
+        "Apps",
+        "Stem"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://www.soundsonline.com/orchestras/hollywood-scoring-tools",
+      "title": "EastWest has announced Hollywood Scoring Tools composition library for EW Opus Engine. The library is available to pre-order at 25% off.",
+      "developer": "EastWest",
+      "url": "https://www.soundsonline.com/orchestras/hollywood-scoring-tools",
+      "discount": 25,
+      "free": false,
+      "ends": "2026-10-29",
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Instruments",
+        "Library"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://www.soniccouture.com/en/products/28-sound-design/g96-scanner-library/",
+      "title": "Soniccouture has released Scanner: Library for Kontakt Player in collaboration with Robin Rimbaud. The intro is 25% off.",
+      "developer": "Soniccouture",
+      "url": "https://www.soniccouture.com/en/products/28-sound-design/g96-scanner-library/",
+      "discount": 25,
+      "free": false,
+      "ends": "2026-11-30",
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Instruments",
+        "Library",
+        "Kontakt Player"
+      ],
+      "badges": []
+    },
     {
       "id": "https://audioplugin.deals/product/october-mega-bundle/ref/21/",
       "title": "Get 98% off the Audio Plugin Deals October Mega Bundle for $9.99 (Normally $477.31).",
@@ -278,16 +1174,7 @@
         "Modulation",
         "MIDI"
       ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🔥 HOT",
-          "kind": "hot"
-        }
-      ]
+      "badges": []
     },
     {
       "id": "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/1655-MDrumEnhancer?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -306,16 +1193,7 @@
         "MidSide",
         "Limiter"
       ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🔥 HOT",
-          "kind": "hot"
-        }
-      ]
+      "badges": []
     },
     {
       "id": "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10655-MDrumStrip?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -334,16 +1212,7 @@
         "Gate",
         "Reverb"
       ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🔥 HOT",
-          "kind": "hot"
-        }
-      ]
+      "badges": []
     },
     {
       "id": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/1133-MDrummer?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -362,16 +1231,7 @@
         "Sequencer",
         "Effects"
       ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🔥 HOT",
-          "kind": "hot"
-        }
-      ]
+      "badges": []
     },
     {
       "id": "https://www.pluginboutique.com/deals/24184?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -776,30 +1636,6 @@
       "badges": []
     },
     {
-      "id": "https://www.lootaudio.com/category/plugins/image-line/fl-studio-fruity-edition?affid=fMorNKPLzP4MoHCj44pM6jghcBzdc8",
-      "title": "FL Studio Fruity Edition by Image Line is 51% off at Loot Audio.",
-      "developer": "Image-Line",
-      "url": "https://www.lootaudio.com/category/plugins/image-line/fl-studio-fruity-edition?affid=fMorNKPLzP4MoHCj44pM6jghcBzdc8",
-      "discount": 51,
-      "free": false,
-      "ends": "2026-10-07",
-      "dateAdded": "2026-10-04",
-      "tags": [
-        "DAW",
-        "Audio Editor"
-      ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "⏰ ENDS SOON",
-          "kind": "soon"
-        }
-      ]
-    },
-    {
       "id": "https://parishaudio.com/products/warpfield",
       "title": "Parish Audio has released Warpfield time-manipulation plugin for Win & Mac. The intro is 50% off.",
       "developer": "Parish Audio",
@@ -1101,7 +1937,16 @@
         "Percussion",
         "Pads"
       ],
-      "badges": []
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        }
+      ]
     },
     {
       "id": "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/13366-BEATSURFING-Full-House-Bundle?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -2033,16 +2878,7 @@
         "Envelope",
         "Randomizer"
       ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🔥 HOT",
-          "kind": "hot"
-        }
-      ]
+      "badges": []
     },
     {
       "id": "https://www.pluginboutique.com/product/2-Effects/16-EQ/14549-Parity-EQ?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -2292,16 +3128,7 @@
         "EQ",
         "Preamp"
       ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🔥 HOT",
-          "kind": "hot"
-        }
-      ]
+      "badges": []
     },
     {
       "id": "https://www.applied-acoustics.com/aas-player/",
@@ -2318,32 +3145,6 @@
         "Bundle"
       ],
       "badges": []
-    },
-    {
-      "id": "https://www.korg.com/us/news/2026/0930/",
-      "title": "To celebrate the release of LA Studio Drums expansion library, KORG is offering 50% off on KORG Module Pro and KORG Gadget 3 for iOS.",
-      "developer": "KORG",
-      "url": "https://www.korg.com/us/news/2026/0930/",
-      "discount": 50,
-      "free": false,
-      "ends": "2026-10-07",
-      "dateAdded": "2026-10-01",
-      "tags": [
-        "Instruments",
-        "Synth",
-        "Bundle",
-        "Apps"
-      ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "⏰ ENDS SOON",
-          "kind": "soon"
-        }
-      ]
     },
     {
       "id": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/16887-Attracktive-Box-Essential?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -3352,6 +4153,27 @@
       "badges": []
     },
     {
+      "id": "https://audiodeluxe.com/collections/software/products/eastwest-string-machine?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 60% off EastWest String Machine at Audio Deluxe. The discounted price is $39.",
+      "developer": "EastWest",
+      "url": "https://audiodeluxe.com/collections/software/products/eastwest-string-machine?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 60,
+      "free": false,
+      "ends": "2026-10-08",
+      "dateAdded": "2026-09-30",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        }
+      ]
+    },
+    {
       "id": "https://app.shevtoneaudio.com/orchestrator",
       "title": "Get 50% off ShevtoneAudio Orchestrator, a MIDI orchestration plugin, with code orch50.",
       "developer": "ShevToneAudio",
@@ -3380,18 +4202,6 @@
         "Mix & Master",
         "Sound Design"
       ],
-      "badges": []
-    },
-    {
-      "id": "https://audiodeluxe.com/collections/software/products/eastwest-string-machine?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
-      "title": "Get 47% off EastWest String Machine at Audio Deluxe. The discounted price is $52.",
-      "developer": "EastWest",
-      "url": "https://audiodeluxe.com/collections/software/products/eastwest-string-machine?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
-      "discount": 47,
-      "free": false,
-      "ends": "2026-11-01",
-      "dateAdded": "2026-09-30",
-      "tags": [],
       "badges": []
     },
     {
@@ -4047,27 +4857,6 @@
       "badges": []
     },
     {
-      "id": "https://www.pluginboutique.com/deals/23994?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "title": "Get up to 30% off in the CalPochi Launch Sale.",
-      "developer": "CalPochi",
-      "url": "https://www.pluginboutique.com/deals/23994?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "discount": 30,
-      "free": false,
-      "ends": "2026-10-11",
-      "dateAdded": "2026-09-28",
-      "tags": [
-        "Synth",
-        "Effects",
-        "Virtual Instrument",
-        "Samples",
-        "Drum",
-        "Guitar",
-        "Bass",
-        "Vocal"
-      ],
-      "badges": []
-    },
-    {
       "id": "https://www.pluginboutique.com/deals/24125?a_aid=57ac3d39bf8f6&chan=APGDB",
       "title": "Get up to 25% off in the Ample China v4 Update Sale.",
       "developer": "Ample Sound",
@@ -4151,43 +4940,6 @@
         {
           "label": "🔥 HOT",
           "kind": "hot"
-        }
-      ]
-    },
-    {
-      "id": "https://plugindeals.net/ik/promos",
-      "title": "IK Multimedia is offering 85% off on AmpliTube 5.",
-      "developer": "IK Multimedia",
-      "url": "https://plugindeals.net/ik/promos",
-      "discount": 85,
-      "free": false,
-      "ends": "2026-10-07",
-      "dateAdded": "2026-09-27",
-      "tags": [
-        "Effects",
-        "Amp",
-        "Sims",
-        "Cabs",
-        "Bundle",
-        "AmpliTube",
-        "Amp Sim"
-      ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "⏰ ENDS SOON",
-          "kind": "soon"
-        },
-        {
-          "label": "🔥 HOT",
-          "kind": "hot"
-        },
-        {
-          "label": "💰 BIG DISCOUNT",
-          "kind": "save"
         }
       ]
     },
@@ -4389,44 +5141,12 @@
           "kind": "default"
         },
         {
-          "label": "🎁 FREEBIE",
-          "kind": "freebie"
-        }
-      ]
-    },
-    {
-      "id": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12454-MODO-BASS-2?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "title": "Get 85% off MODO BASS 2 by IK Multimedia. The discounted price is $29.99.",
-      "developer": "IK Multimedia",
-      "url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/12454-MODO-BASS-2?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "discount": 85,
-      "free": false,
-      "ends": "2026-10-07",
-      "dateAdded": "2026-09-25",
-      "tags": [
-        "Bass",
-        "Virtual Instrument",
-        "Physical Modeling",
-        "Modeling",
-        "MIDI",
-        "Amp Simulator"
-      ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
           "label": "⏰ ENDS SOON",
           "kind": "soon"
         },
         {
-          "label": "🔥 HOT",
-          "kind": "hot"
-        },
-        {
-          "label": "💰 BIG DISCOUNT",
-          "kind": "save"
+          "label": "🎁 FREEBIE",
+          "kind": "freebie"
         }
       ]
     },
@@ -4440,34 +5160,6 @@
       "ends": "2026-10-09",
       "dateAdded": "2026-09-25",
       "tags": [],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🔥 HOT",
-          "kind": "hot"
-        }
-      ]
-    },
-    {
-      "id": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/13075-T-RackS-6?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "title": "Get 70% off T-RackS 6 by IK Multimedia. The discounted price is $29.99.",
-      "developer": "IK Multimedia",
-      "url": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/13075-T-RackS-6?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "discount": 70,
-      "free": false,
-      "ends": "2026-10-07",
-      "dateAdded": "2026-09-25",
-      "tags": [
-        "T-Racks",
-        "Mix & Master",
-        "Mastering",
-        "Effects",
-        "Metering",
-        "Emulation"
-      ],
       "badges": [
         {
           "label": "!",
@@ -4536,7 +5228,16 @@
         "Mastering",
         "Utility"
       ],
-      "badges": []
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        }
+      ]
     },
     {
       "id": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17951-DrumX-Iconic-Bundle?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -4899,34 +5600,6 @@
       "badges": []
     },
     {
-      "id": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17922-E1?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "title": "Get 21% off E1 by Ebony Systems. The discounted price is $39.",
-      "developer": "Ebony Systems",
-      "url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/17922-E1?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "discount": 21,
-      "free": false,
-      "ends": "2026-10-07",
-      "dateAdded": "2026-09-21",
-      "tags": [
-        "Clipper",
-        "Compressor",
-        "Stereo Width",
-        "Harmonic",
-        "Dynamics",
-        "Mix & Master"
-      ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "⏰ ENDS SOON",
-          "kind": "soon"
-        }
-      ]
-    },
-    {
       "id": "https://www.audioprism.pro/",
       "title": "Save 25% on AudioPrism – Local URL- WAV downloader + Stem Separation + KeyPrism Piano Learner / Play Mode, $59.99 launch price (reg. $79.99).",
       "developer": "Audioprism",
@@ -5000,33 +5673,6 @@
         {
           "label": "💰 BIG DISCOUNT",
           "kind": "save"
-        }
-      ]
-    },
-    {
-      "id": "https://cherryaudio.com/news/voltage-modular-get-wired-sale-2026",
-      "title": "Cherry Audio Voltage Modular Get Wired for Fall Promotion – up to 70% off on Voltage Modular collections, bundles and modules.",
-      "developer": "Cherry Audio",
-      "url": "https://cherryaudio.com/news/voltage-modular-get-wired-sale-2026",
-      "discount": 70,
-      "free": false,
-      "ends": "2026-10-07",
-      "dateAdded": "2026-09-19",
-      "tags": [
-        "Synth",
-        "Modular",
-        "Expansion",
-        "Bundle",
-        "Effects"
-      ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "⏰ ENDS SOON",
-          "kind": "soon"
         }
       ]
     },
@@ -5740,7 +6386,16 @@
       "ends": "2026-10-09",
       "dateAdded": "2026-09-10",
       "tags": [],
-      "badges": []
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        }
+      ]
     },
     {
       "id": "https://www.algoriffix.com/",
@@ -5985,61 +6640,6 @@
         "Effects",
         "Compressor",
         "Limiter"
-      ],
-      "badges": []
-    },
-    {
-      "id": "https://www.pluginboutique.com/product/2-Effects/44-Saturation/17806-Manga-Saturation?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "title": "Get 30% off Manga Saturation by CalPochi. The discounted price is $55.",
-      "developer": "CalPochi",
-      "url": "https://www.pluginboutique.com/product/2-Effects/44-Saturation/17806-Manga-Saturation?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "discount": 30,
-      "free": false,
-      "ends": "2026-10-11",
-      "dateAdded": "2026-09-07",
-      "tags": [
-        "Saturation",
-        "Distortion",
-        "Limiter",
-        "Effects",
-        "Mix & Master"
-      ],
-      "badges": []
-    },
-    {
-      "id": "https://www.pluginboutique.com/product/2-Effects/20-Gate/17808-Noren-Gate?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "title": "Get 30% off Noren Gate by CalPochi. The discounted price is $55.",
-      "developer": "CalPochi",
-      "url": "https://www.pluginboutique.com/product/2-Effects/20-Gate/17808-Noren-Gate?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "discount": 30,
-      "free": false,
-      "ends": "2026-10-11",
-      "dateAdded": "2026-09-07",
-      "tags": [
-        "Gate",
-        "Expander",
-        "Dynamics",
-        "Effects",
-        "Audio Restoration"
-      ],
-      "badges": []
-    },
-    {
-      "id": "https://www.pluginboutique.com/product/2-Effects/16-EQ/17809-Blackboard-EQ?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "title": "Get 30% off Blackboard EQ by CalPochi. The discounted price is $62.30.",
-      "developer": "CalPochi",
-      "url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/17809-Blackboard-EQ?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "discount": 30,
-      "free": false,
-      "ends": "2026-10-11",
-      "dateAdded": "2026-09-07",
-      "tags": [
-        "EQ",
-        "Dynamic Processor",
-        "Saturation",
-        "MidSide",
-        "Analyzer",
-        "Linear Phase"
       ],
       "badges": []
     }
