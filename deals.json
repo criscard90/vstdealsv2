@@ -2,15 +2,669 @@
   "ok": true,
   "source": "audiopluginguy.com/deals",
   "sourceUrl": "https://www.audiopluginguy.com/deals/",
-  "fetchedAt": "2026-10-08T05:22:12.559Z",
+  "fetchedAt": "2026-10-08T23:07:26.445Z",
   "stats": {
-    "rows": 333,
-    "free": 43,
-    "kept": 329,
+    "rows": 348,
+    "free": 45,
+    "kept": 345,
     "skipped": 0,
-    "duplicates": 4
+    "duplicates": 3
   },
   "deals": [
+    {
+      "id": "https://www.discodsp.com/waveprompt/",
+      "title": "DiscoDSP has released WavePrompt, a free text-to-music generator app for Win and Mac.",
+      "developer": "DiscoDSP",
+      "url": "https://www.discodsp.com/waveprompt/",
+      "discount": 100,
+      "free": true,
+      "ends": null,
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Instruments",
+        "Generator"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🎁 FREEBIE",
+          "kind": "freebie"
+        }
+      ]
+    },
+    {
+      "id": "https://www.discodsp.com/roboto/",
+      "title": "DiscoDSP has released Roboto, a free singing robot voice synth plugin and standalone for Mac, Win, Linux and iOS.",
+      "developer": "DiscoDSP",
+      "url": "https://www.discodsp.com/roboto/",
+      "discount": 100,
+      "free": true,
+      "ends": null,
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Instruments",
+        "Synth",
+        "Voice",
+        "Freebie"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🎁 FREEBIE",
+          "kind": "freebie"
+        }
+      ]
+    },
+    {
+      "id": "https://www.lootaudio.com/category/plugins/uvi/prisma?affid=fMorNKPLzP4MoHCj44pM6jghcBzdc8",
+      "title": "UVI Prisma virtual instrument library for Falcon and UVI Workstation is available as a free download at Loot Audio.",
+      "developer": "UVI",
+      "url": "https://www.lootaudio.com/category/plugins/uvi/prisma?affid=fMorNKPLzP4MoHCj44pM6jghcBzdc8",
+      "discount": 100,
+      "free": true,
+      "ends": null,
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "FREE",
+        "Instruments",
+        "Library",
+        "UVI Workstation",
+        "Falcon"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🎁 FREEBIE",
+          "kind": "freebie"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://en.antelopeaudio.com/software-store/",
+      "title": "Antelope Audio is offering up to 89% off on a selection of classic analog effect plugins.",
+      "developer": "Antelope Audio",
+      "url": "https://en.antelopeaudio.com/software-store/",
+      "discount": 89,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Effects",
+        "Tools",
+        "Analog"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.waves.com/",
+      "title": "Waves Audio Vocal Plugin Sale – up to 82% off on vocal plugins and bundles. Plus, buy 2 plugins and get 2 free.",
+      "developer": "",
+      "url": "https://www.waves.com/",
+      "discount": 82,
+      "free": false,
+      "ends": "2026-10-14",
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Effects",
+        "Vocal Processing",
+        "Bundle"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17968-Sharing-Spotlight-Girls-Make-Beats-Bundle?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 82% off Sharing Spotlight: Girls Make Beats Bundle by Exclusive Bundles+. The discounted price is $39.",
+      "developer": "Exclusive Bundles+",
+      "url": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17968-Sharing-Spotlight-Girls-Make-Beats-Bundle?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 82,
+      "free": false,
+      "ends": "2026-10-18",
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Bundle",
+        "Compressor",
+        "Choir",
+        "Drum Machine",
+        "Delay",
+        "Reverb"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.hornetplugins.com/plugins/hornet-spectraduck/",
+      "title": "HoRNet Plugins is offering 80% off on HoRNet SpectraDuck sidechain ducker plugin. Use the code: DUCKOCT80.",
+      "developer": "HoRNet Plugins",
+      "url": "https://www.hornetplugins.com/plugins/hornet-spectraduck/",
+      "discount": 80,
+      "free": false,
+      "ends": "2026-10-11",
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Effects",
+        "Tools"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.nembriniaudio.com/",
+      "title": "Nembrini Audio Autumn Flash Sale – up to 80% off on all products. Plus an extra 15% off with the code: 96H-15-OFF.",
+      "developer": "Nembrini Audio",
+      "url": "https://www.nembriniaudio.com/",
+      "discount": 80,
+      "free": false,
+      "ends": "2026-10-11",
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Effects",
+        "Tools",
+        "Bundle"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.acustica-audio.com/",
+      "title": "Acustica Audio Vintage Market Promo – up to 74% off on selected plugins.",
+      "developer": "Acustica Audio",
+      "url": "https://www.acustica-audio.com/",
+      "discount": 74,
+      "free": false,
+      "ends": "2026-10-21",
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Effects",
+        "Tools"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://tone-empire.com/shop/cryptone/",
+      "title": "Tone Empire has released Cryptone 2 saturation plugin for Mac & Win. The intro is 70% off.",
+      "developer": "Tone Empire",
+      "url": "https://tone-empire.com/shop/cryptone/",
+      "discount": 70,
+      "free": false,
+      "ends": null,
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Effects",
+        "Saturation"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://audioplugin.deals/product/steinbach-chain-by-hauke-steinbach/ref/21/",
+      "title": "Get 60% off Steinbach Chain by Hauke Steinbach by $20 (Normally $50).",
+      "developer": "Hauke Steinbach",
+      "url": "https://audioplugin.deals/product/steinbach-chain-by-hauke-steinbach/ref/21/",
+      "discount": 60,
+      "free": false,
+      "ends": "2026-10-21",
+      "dateAdded": "2026-10-08",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.elastic-sounds.com/store/p/horror-strings-bundle",
+      "title": "Elastic Sounds Halloween Sale – 50% off on Horror Strings Bundle, including 3 libraries for Kontakt (full version).",
+      "developer": "Elastic Sounds",
+      "url": "https://www.elastic-sounds.com/store/p/horror-strings-bundle",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Instruments",
+        "Library",
+        "Kontakt",
+        "Bundle"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.sonokinetic.net/",
+      "title": "Sonokinetic Alongside the Native Instruments Sale – 50% off on all libraries.",
+      "developer": "Sonokinetic",
+      "url": "https://www.sonokinetic.net/",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Instruments",
+        "Library",
+        "Kontakt Player"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.martinic.com/en/products/ax73-plus",
+      "title": "Martinic is celebrating the fifth anniversary of AX73 synth plugin with 50% off on all AX related products.",
+      "developer": "Martinic",
+      "url": "https://www.martinic.com/en/products/ax73-plus",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-14",
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Instruments",
+        "Synth",
+        "Expansion",
+        "Bundle"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.audiority.com/",
+      "title": "Audiority Oktoberfest Sale – 50% off on amp and distortion plugins.",
+      "developer": "Audiority",
+      "url": "https://www.audiority.com/",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-11-02",
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Effects",
+        "Amp",
+        "Distortion"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.uvi.net/falcon-expansions?ruf=111",
+      "title": "UVI is offering all Falcon expansions with a “Buy 1 Get 1 Free” promotion.",
+      "developer": "UVI",
+      "url": "https://www.uvi.net/falcon-expansions?ruf=111",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-26",
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Expansion",
+        "Packs",
+        "Falcon"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.uvi.net/falcon?ruf=111",
+      "title": "UVI has released Falcon 2027 hybrid synth plugin for Win & Mac. The intro is 50% off.",
+      "developer": "UVI",
+      "url": "https://www.uvi.net/falcon?ruf=111",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-26",
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Instruments",
+        "Synth",
+        "Falcon",
+        "UVI"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/18007-Falcon-2027?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 50% off Falcon 2027 by UVI. The discounted price is $149.",
+      "developer": "UVI",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/18007-Falcon-2027?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Sampler",
+        "Synth",
+        "Wavetable",
+        "Multi-Effect",
+        "Modulation",
+        "MIDI"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/66-Music-Courses/78-Video-Interactive-Courses/15251-Basic-Audio-Programming?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 50% off Basic Audio Programming by pointblank. The discounted price is $17.49.",
+      "developer": "pointblank",
+      "url": "https://www.pluginboutique.com/product/66-Music-Courses/78-Video-Interactive-Courses/15251-Basic-Audio-Programming?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-11-15",
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Courses",
+        "DSP",
+        "Audio",
+        "Distortion",
+        "Synth",
+        "Gain"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.horrorsound.org/",
+      "title": "HorrorSound Halloween Sale – 30% off on single sample packs and already discounted bundles. Use the code: HALLOWEEN26.",
+      "developer": "HorrorSound",
+      "url": "https://www.horrorsound.org/",
+      "discount": 30,
+      "free": false,
+      "ends": null,
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Samples",
+        "Packs",
+        "Bundle"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://kuusoutoshi-audio.com/drumunveil/",
+      "title": "Get $20 off DrumUnveil from KUUSOUTOSHI AUDIO with coupon code: LAUNCH49 (launch price $49, regular $69).",
+      "developer": "KUUSOUTOSHI AUDIO",
+      "url": "https://kuusoutoshi-audio.com/drumunveil/",
+      "discount": 29,
+      "free": false,
+      "ends": "2026-11-30",
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Effects",
+        "Utility",
+        "MIDI",
+        "Drum",
+        "VST",
+        "AU",
+        "Standalone"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://bogrendigital.com/products/a-class-vocal",
+      "title": "Bogren has released A-Class Vocal plugin for Win & Mac. The intro is 25% off.",
+      "developer": "Bogren Digital",
+      "url": "https://bogrendigital.com/products/a-class-vocal",
+      "discount": 25,
+      "free": false,
+      "ends": "2026-10-25",
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Effects",
+        "Vocal Processing"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/18003-A-Class-Vocal?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 25% off A-Class Vocal by Bogren Digital. The discounted price is $89.",
+      "developer": "Bogren Digital",
+      "url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/18003-A-Class-Vocal?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 25,
+      "free": false,
+      "ends": "2026-10-25",
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Vocal Processing",
+        "Effects",
+        "Dynamics",
+        "Harmonic",
+        "Emulation"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.imaginando.pt/products/colapso-atomic-synthesizer",
+      "title": "Imaginando has released Colapso additive synth plugin for Mac & Win. The intro is 22% off.",
+      "developer": "Imaginando",
+      "url": "https://www.imaginando.pt/products/colapso-atomic-synthesizer",
+      "discount": 22,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Instruments",
+        "Synth"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
     {
       "id": "https://audioplugin.deals/product/analog-plugins-bundle-by-cloudy-samples/ref/21/",
       "title": "Get 95% off Analog Plugins Bundle by Cloudy Samples for $9.99 (normally $190).",
@@ -25,10 +679,6 @@
         {
           "label": "!",
           "kind": "default"
-        },
-        {
-          "label": "🆕 NEW",
-          "kind": "new"
         },
         {
           "label": "💰 BIG DISCOUNT",
@@ -57,10 +707,6 @@
         {
           "label": "!",
           "kind": "default"
-        },
-        {
-          "label": "🆕 NEW",
-          "kind": "new"
         },
         {
           "label": "💰 BIG DISCOUNT",
@@ -93,10 +739,6 @@
           "kind": "default"
         },
         {
-          "label": "🆕 NEW",
-          "kind": "new"
-        },
-        {
           "label": "💰 BIG DISCOUNT",
           "kind": "save"
         }
@@ -123,10 +765,6 @@
         {
           "label": "!",
           "kind": "default"
-        },
-        {
-          "label": "🆕 NEW",
-          "kind": "new"
         },
         {
           "label": "🔥 HOT",
@@ -161,10 +799,6 @@
           "kind": "default"
         },
         {
-          "label": "🆕 NEW",
-          "kind": "new"
-        },
-        {
           "label": "🔥 HOT",
           "kind": "hot"
         },
@@ -197,10 +831,6 @@
           "kind": "default"
         },
         {
-          "label": "🆕 NEW",
-          "kind": "new"
-        },
-        {
           "label": "💰 BIG DISCOUNT",
           "kind": "save"
         }
@@ -229,10 +859,6 @@
           "kind": "default"
         },
         {
-          "label": "🆕 NEW",
-          "kind": "new"
-        },
-        {
           "label": "🔥 HOT",
           "kind": "hot"
         }
@@ -254,16 +880,7 @@
         "Samples",
         "Sound Design"
       ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🆕 NEW",
-          "kind": "new"
-        }
-      ]
+      "badges": []
     },
     {
       "id": "https://www.pluginboutique.com/deals/24215?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -281,16 +898,7 @@
         "Samples",
         "Sound Design"
       ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🆕 NEW",
-          "kind": "new"
-        }
-      ]
+      "badges": []
     },
     {
       "id": "https://www.pluginboutique.com/deals/24153?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -308,16 +916,7 @@
         "Samples",
         "Sound Design"
       ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🆕 NEW",
-          "kind": "new"
-        }
-      ]
+      "badges": []
     },
     {
       "id": "https://www.pluginboutique.com/deals/24182?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -338,16 +937,7 @@
         "Bass",
         "Vocal"
       ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🆕 NEW",
-          "kind": "new"
-        }
-      ]
+      "badges": []
     },
     {
       "id": "https://www.pluginboutique.com/deals/23886?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -367,16 +957,7 @@
         "Mixing",
         "Mastering"
       ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🆕 NEW",
-          "kind": "new"
-        }
-      ]
+      "badges": []
     },
     {
       "id": "https://www.pluginboutique.com/deals/24141?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -397,16 +978,7 @@
         "Production",
         "Mixing"
       ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🆕 NEW",
-          "kind": "new"
-        }
-      ]
+      "badges": []
     },
     {
       "id": "https://www.pluginboutique.com/deals/24192?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -425,16 +997,7 @@
         "Instruments",
         "Production"
       ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🆕 NEW",
-          "kind": "new"
-        }
-      ]
+      "badges": []
     },
     {
       "id": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/17985-Limit-Pro?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -457,10 +1020,6 @@
         {
           "label": "!",
           "kind": "default"
-        },
-        {
-          "label": "🆕 NEW",
-          "kind": "new"
         },
         {
           "label": "🔥 HOT",
@@ -487,16 +1046,7 @@
         "Bass",
         "Vocal"
       ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🆕 NEW",
-          "kind": "new"
-        }
-      ]
+      "badges": []
     },
     {
       "id": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/17984-Limit-Go?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -518,10 +1068,6 @@
         {
           "label": "!",
           "kind": "default"
-        },
-        {
-          "label": "🆕 NEW",
-          "kind": "new"
         },
         {
           "label": "🔥 HOT",
@@ -547,6 +1093,10 @@
         {
           "label": "!",
           "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
         },
         {
           "label": "🎁 FREEBIE",
@@ -1888,36 +2438,6 @@
         {
           "label": "🔥 HOT",
           "kind": "hot"
-        }
-      ]
-    },
-    {
-      "id": "https://www.hornetplugins.com/elm128-mk2-free/",
-      "title": "HoRNet Plugins is offering ELM128 MK2 loudness meter plugin as a free download. Use the coupon code: ELMFREE.",
-      "developer": "HoRNet Plugins",
-      "url": "https://www.hornetplugins.com/elm128-mk2-free/",
-      "discount": 100,
-      "free": true,
-      "ends": "2026-10-08",
-      "dateAdded": "2026-10-04",
-      "tags": [
-        "FREE",
-        "Effects",
-        "Loudness",
-        "Metering"
-      ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "⏰ ENDS SOON",
-          "kind": "soon"
-        },
-        {
-          "label": "🎁 FREEBIE",
-          "kind": "freebie"
         }
       ]
     },
@@ -4541,27 +5061,6 @@
       "badges": []
     },
     {
-      "id": "https://audiodeluxe.com/collections/software/products/eastwest-string-machine?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
-      "title": "Get 60% off EastWest String Machine at Audio Deluxe. The discounted price is $39.",
-      "developer": "EastWest",
-      "url": "https://audiodeluxe.com/collections/software/products/eastwest-string-machine?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
-      "discount": 60,
-      "free": false,
-      "ends": "2026-10-08",
-      "dateAdded": "2026-09-30",
-      "tags": [],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "⏰ ENDS SOON",
-          "kind": "soon"
-        }
-      ]
-    },
-    {
       "id": "https://app.shevtoneaudio.com/orchestrator",
       "title": "Get 50% off ShevtoneAudio Orchestrator, a MIDI orchestration plugin, with code orch50.",
       "developer": "ShevToneAudio",
@@ -4590,6 +5089,18 @@
         "Mix & Master",
         "Sound Design"
       ],
+      "badges": []
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/eastwest-string-machine?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 47% off EastWest String Machine at Audio Deluxe. The discounted price is $52.",
+      "developer": "EastWest",
+      "url": "https://audiodeluxe.com/collections/software/products/eastwest-string-machine?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 47,
+      "free": false,
+      "ends": "2026-11-01",
+      "dateAdded": "2026-09-30",
+      "tags": [],
       "badges": []
     },
     {
@@ -4767,27 +5278,6 @@
       "badges": []
     },
     {
-      "id": "https://audioplugin.deals/product/sonura-pro-annual-license/ref/21/",
-      "title": "Get 75% off Sonura Flow (PRO Annual License) for $45 (Normally $180).",
-      "developer": "Sonura Flow",
-      "url": "https://audioplugin.deals/product/sonura-pro-annual-license/ref/21/",
-      "discount": 75,
-      "free": false,
-      "ends": "2026-10-08",
-      "dateAdded": "2026-09-29",
-      "tags": [],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "⏰ ENDS SOON",
-          "kind": "soon"
-        }
-      ]
-    },
-    {
       "id": "https://audioplugin.deals/product/true-keys-by-vi-labs/ref/21/",
       "title": "Get 74% off True Keys Piano Bundle by VI Labs for $89 (Normally $349).",
       "developer": "VI-Labs",
@@ -4853,30 +5343,6 @@
         "Halloween"
       ],
       "badges": []
-    },
-    {
-      "id": "https://www.adsrsounds.com/product/software/lost-sky-audio-reverie-piano-sampler-piano/#a_aid=apg",
-      "title": "ADSR Sounds Exclusive Deals – 50% off on Lost Sky Audio Reverie Piano virtual instrument plugin.",
-      "developer": "Lost Sky Audio",
-      "url": "https://www.adsrsounds.com/product/software/lost-sky-audio-reverie-piano-sampler-piano/#a_aid=apg",
-      "discount": 50,
-      "free": false,
-      "ends": "2026-10-08",
-      "dateAdded": "2026-09-29",
-      "tags": [
-        "Instruments",
-        "Piano"
-      ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "⏰ ENDS SOON",
-          "kind": "soon"
-        }
-      ]
     },
     {
       "id": "https://funkykataudio.com/fka-autowah?utm_source=audiopluginguy&utm_medium=deal&utm_campaign=fka_autowah_launch",
@@ -5658,7 +6124,16 @@
       "tags": [
         "Various Category"
       ],
-      "badges": []
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        }
+      ]
     },
     {
       "id": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17386-DrumX?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -5734,33 +6209,6 @@
         {
           "label": "💰 BIG DISCOUNT",
           "kind": "save"
-        }
-      ]
-    },
-    {
-      "id": "https://feddsp.com/products/quadCHO/",
-      "title": "Get 50% off quadCHO from fedDSP",
-      "developer": "fedDSP",
-      "url": "https://feddsp.com/products/quadCHO/",
-      "discount": 50,
-      "free": false,
-      "ends": "2026-10-08",
-      "dateAdded": "2026-09-23",
-      "tags": [
-        "Chorus",
-        "Modulation",
-        "Spatial",
-        "Mixing",
-        "Production"
-      ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "⏰ ENDS SOON",
-          "kind": "soon"
         }
       ]
     },
@@ -6029,38 +6477,6 @@
         {
           "label": "🎁 FREEBIE",
           "kind": "freebie"
-        }
-      ]
-    },
-    {
-      "id": "https://www.lootaudio.com/?affid=fMorNKPLzP4MoHCj44pM6jghcBzdc8",
-      "title": "Loot Audio 6th Birthday Sale – up to 90% off on Kontakt instruments, plugins, sample and preset libraries.",
-      "developer": "Loot Audio",
-      "url": "https://www.lootaudio.com/?affid=fMorNKPLzP4MoHCj44pM6jghcBzdc8",
-      "discount": 90,
-      "free": false,
-      "ends": "2026-10-08",
-      "dateAdded": "2026-09-19",
-      "tags": [
-        "Instruments",
-        "Effects",
-        "Kontakt Instrument",
-        "Samples",
-        "Presets",
-        "Packs"
-      ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "⏰ ENDS SOON",
-          "kind": "soon"
-        },
-        {
-          "label": "💰 BIG DISCOUNT",
-          "kind": "save"
         }
       ]
     },
@@ -6834,63 +7250,6 @@
       ]
     },
     {
-      "id": "https://www.pluginboutique.com/deals/24037?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "title": "Get up to 50% off in the Loot Audio 6th Birthday Sale.",
-      "developer": "Loot Audio",
-      "url": "https://www.pluginboutique.com/deals/24037?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "discount": 50,
-      "free": false,
-      "ends": "2026-10-08",
-      "dateAdded": "2026-09-09",
-      "tags": [
-        "Synth",
-        "Effects",
-        "Samples",
-        "Instruments",
-        "DAW",
-        "Mixing",
-        "Mastering"
-      ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "⏰ ENDS SOON",
-          "kind": "soon"
-        }
-      ]
-    },
-    {
-      "id": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/17844-Panorama-Whitekirk?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "title": "Get 20% off Panorama Whitekirk by Sonora Cinematic (Kontakt Instrument). The discounted price is $47.",
-      "developer": "Sonora Cinematic",
-      "url": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/17844-Panorama-Whitekirk?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "discount": 20,
-      "free": false,
-      "ends": "2026-10-08",
-      "dateAdded": "2026-09-09",
-      "tags": [
-        "Guitar",
-        "Kontakt Instrument",
-        "Reverb",
-        "Ambient",
-        "Cinematic",
-        "Experimental"
-      ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "⏰ ENDS SOON",
-          "kind": "soon"
-        }
-      ]
-    },
-    {
       "id": "https://www.autodafe.net/vintage-emulator-studio.html",
       "title": "Autodafe has released Vintage Emulator Studio, a free MAME-based vintage instrument plugin and standalone for Win, Mac & Linux.",
       "developer": "Autodafe",
@@ -6966,22 +7325,6 @@
           "kind": "freebie"
         }
       ]
-    },
-    {
-      "id": "https://djwaudio.co/#shine",
-      "title": "Launch offer. Get 535 off DJW Audio Shine Reverb: Algorithmic reverb with dual-stage pitch shimmer and tails up to 99 seconds.",
-      "developer": "DJW Audio",
-      "url": "https://djwaudio.co/#shine",
-      "discount": 53,
-      "free": false,
-      "ends": null,
-      "dateAdded": "2026-09-08",
-      "tags": [
-        "Effects",
-        "Reverb",
-        "Shimmer"
-      ],
-      "badges": []
     },
     {
       "id": "https://www.waves.com/plugins/tract-system-calibration",
